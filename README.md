@@ -4,7 +4,7 @@
 
 
 # **Prototype**
-<img width="1410" alt="Screen Shot 2022-02-12 at 3 48 29 AM" src="https://github.com/kabire/INFO31179_Assignment2/blob/main/prototype.png">
+<img width="1210" alt="Screen Shot 2022-02-22 at 3 48 29 AM" src="https://github.com/kabire/INFO31179_Assignment2/blob/main/prototype.png">
 
 
 

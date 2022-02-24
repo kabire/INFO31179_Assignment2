@@ -12,6 +12,14 @@ This is my app for assignment 2. it is a sheridan course app which helps users
   
 ---
 
+## _Screen Shots_
+
+<img srx = "https://github.com/kabire/INFO31179_Assignment2/blob/main/1.png">
+<img srx = "https://github.com/kabire/INFO31179_Assignment2/blob/main/2.png">
+<img srx = "https://github.com/kabire/INFO31179_Assignment2/blob/main/3.png">
+<img srx = "https://github.com/kabire/INFO31179_Assignment2/blob/main/4.png">
+<img srx = "https://github.com/kabire/INFO31179_Assignment2/blob/main/5.png">
+
 ## **Desirable features**
 -	A link somewhere to go to the Sheridan College official webpage.
 -	Progress bar to understand how far the user is on a particular course.
@@ -25,6 +33,7 @@ This is my app for assignment 2. it is a sheridan course app which helps users
 <img width="1210" alt="Screen Shot 2022-02-22 at 3 48 29 AM" src="https://github.com/kabire/INFO31179_Assignment2/blob/main/Prototype.png">
 
 ---
+
 
 ## **Links**
 [FIGMA](https://www.figma.com/file/0OlD225pPi0L3sE0RORBcv/Sheridan-Course-App_2nd)<br />

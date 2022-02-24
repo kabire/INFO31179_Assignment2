@@ -14,11 +14,7 @@ This is my app for assignment 2. it is a sheridan course app which helps users
 
 ## _Screen Shots_
 
-<img src = "https://github.com/kabire/INFO31179_Assignment2/blob/main/1.png">
-<img src = "https://github.com/kabire/INFO31179_Assignment2/blob/main/2.png">
-<img src = "https://github.com/kabire/INFO31179_Assignment2/blob/main/3.png">
-<img src = "https://github.com/kabire/INFO31179_Assignment2/blob/main/4.png">
-<img src = "https://github.com/kabire/INFO31179_Assignment2/blob/main/5.png">
+<img src = "https://github.com/kabire/INFO31179_Assignment2/blob/main/1.png">__<img src = "https://github.com/kabire/INFO31179_Assignment2/blob/main/2.png">__<img src = "https://github.com/kabire/INFO31179_Assignment2/blob/main/3.png">__<img src = "https://github.com/kabire/INFO31179_Assignment2/blob/main/4.png">__<img src = "https://github.com/kabire/INFO31179_Assignment2/blob/main/5.png">
 
 ## **Desirable features**
 -	A link somewhere to go to the Sheridan College official webpage.

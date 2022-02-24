@@ -33,3 +33,4 @@ This is my app for assignment 2. it is a sheridan course app which helps users
 
 ## **Links**
 [FIGMA](https://www.figma.com/file/0OlD225pPi0L3sE0RORBcv/Sheridan-Course-App_2nd)<br />
+[Video Demo](https://sheridanc-my.sharepoint.com/:v:/g/personal/kabire_shernet_sheridancollege_ca/EZ5lUOeHC6VAkahgiZQJ_A0BN6RkcftK5UlWKmWphpcHoQ?e=spWy1V)

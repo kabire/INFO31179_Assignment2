@@ -1,12 +1,12 @@
 # _Sheridan College App_
 
 ## **About the app**
-  This is my app for assignment 2. it is a sheridan course app which helps users
-  -to navigate to different courses
-  -submit assignments
-  -change profile pic
-  -chck calenders
-  -use chatroom
+This is my app for assignment 2. it is a sheridan course app which helps users
+-to navigate to different courses
+-submit assignments
+-change profile pic
+-check calenders
+-use chatroom
   
 
 ## **Desirable features**

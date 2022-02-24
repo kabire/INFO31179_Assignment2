@@ -1,4 +1,4 @@
-# Sheridan College App
+# _Sheridan College App_
 
 # **About the app**
 

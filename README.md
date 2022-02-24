@@ -1,6 +1,14 @@
 # Sheridan College App
 
+# **About the app**
 
+
+# **Desirable features**
+-	A link somewhere to go to the Sheridan College official webpage.
+-	Progress bar to understand how far the user is on a particular course.
+-	Calendar to have option to add own events.
+-	Weather updates
+-	Weekly schedule and navigate to classroom option
 
 
 # **Prototype**
